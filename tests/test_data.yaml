@@ -1,0 +1,4 @@
+test-url: "https://todomvc.com/"
+endpoints:
+  to-do: "/examples/angular2/"
+todo-title-len: 10
